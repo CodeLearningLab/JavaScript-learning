@@ -8,7 +8,7 @@
 
 ### 步骤 1: 打开 GitHub Codespaces
 
-1. 在本仓库的主页上，点击 "Code" 按钮，然后选择 "Open with Codespaces"。
+1. 在本仓库的主页上，点击 "Code" 按钮，然后选择 "Codespaces" 打开。
 2. 如果是第一次使用 GitHub Codespaces，你可能需要进行一些设置。否则，它将会为你创建一个 Codespace 环境。
 
 ### 步骤 2: 启动学习环境
