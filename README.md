@@ -19,10 +19,6 @@
 ### 步骤 3: 运行学习项目
 
 1. 打开终端，不需要运行 `npm install && npm start`，因为以下命令已经包含在 Dev Container 的配置中：
-```shell
-   npm install
-   npm start
-```
 2. 你的 JavaScript 学习环境现在已经在 Codespace 中运行了。
 3. 你可以在浏览器中访问 `http://localhost:3000` 预览你的应用。
 
@@ -58,10 +54,6 @@ This repository provides an example configuration for quickly launching and runn
 ### Step 3: Run the Learning Project
 
 1. Open the terminal and there's no need to run `npm install && npm start` because the following commands are already included in the Dev Container's configuration:
-```shell
-   npm install
-   npm start
-```
 2. Your JavaScript learning environment is now up and running in the Codespace.
 3. You can access `http://localhost:3000` in your browser to preview your application.
 
