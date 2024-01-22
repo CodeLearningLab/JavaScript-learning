@@ -10,7 +10,6 @@
 		"formulahendry.auto-close-tag",
 		"formulahendry.auto-rename-tag",
 		"ms-azuretools.vscode-docker",
-		"ms-vscode.node-debug2",
 		"visualstudioexptteam.vscodeintellicode",
 		"ritwickdey.LiveServer",
 		"alefragnani.Bookmarks",
@@ -46,7 +45,9 @@
 	// Configure tool-specific properties.
 	// "customizations": {},
 	"settings": {
-		"terminal.integrated.shell.linux": "/bin/bash"
+		"terminal.integrated.shell.linux": "/bin/bash",
+		"editor.tabSize": 2,
+		"locale": "zh-cn"s
 	},
 	"forwardPorts": [3000],
 	"postCreateCommand": "npm install",
