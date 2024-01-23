@@ -41,8 +41,7 @@
 	// "customizations": {},
 	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash",
-		"editor.tabSize": 2,
-		"remote.SSH.configFile": "${localWorkspaceFolder}/.devcontainer/.ssh/config",
+		"editor.tabSize": 2
 	},
 	"forwardPorts": [
 		3000
